@@ -1,1 +1,1 @@
-A Python dictionary project.
+A Python dictionary project 📔
